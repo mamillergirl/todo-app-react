@@ -4,9 +4,9 @@
 
 **Description:**
 This is a simple Todo application built using React.js, Tailwind CSS, and local storage. It allows users to manage their tasks by adding, deleting, marking as completed, and updating them. The application stores the tasks locally in the browser's storage, ensuring persistence even after the user refreshes the page.
-(Live Deployed Site)[https://todo-app-react-drlxhvasd-marisa-ms-projects.vercel.app/]
----
 
+---
+(Live Deployed Site)[https://todo-app-react-drlxhvasd-marisa-ms-projects.vercel.app/] 
 **Features:**
 1. **Add Todo:** Users can add a new task by providing a name, description, and deadline.
 2. **Delete Todo:** Tasks can be deleted individually by clicking on the delete button.
